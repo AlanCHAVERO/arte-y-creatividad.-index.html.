@@ -33,20 +33,20 @@
       <h2>Historia del Arte</h2>
       <h3>Arte Prehistórico</h3>
       <p>El arte prehistórico, como las pinturas rupestres y las esculturas de la Edad de Piedra, nos ofrece una visión fascinante de las primeras expresiones artísticas de la humanidad.</p>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Lascaux_painting.jpg/400px-Lascaux_painting.jpg" alt="Pinturas rupestres de Lascaux">
+      <img src="https://via.placeholder.com/400" alt="Pinturas rupestres de Lascaux">
       <h3>Arte Antiguo</h3>
       <p>Desde las majestuosas pirámides de Egipto hasta las esculturas clásicas de la Antigua Grecia, el arte antiguo ha dejado un legado duradero que continúa inspirando a las generaciones posteriores.</p>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Statue-Athena.jpg/400px-Statue-Athena.jpg" alt="Estatua de Atenea">
+      <img src="https://via.placeholder.com/400" alt="Estatua de Atenea">
     </section>
 
     <section id="movimientos">
       <h2>Movimientos Artísticos</h2>
       <h3>Renacimiento</h3>
       <p>El Renacimiento marcó un período de gran innovación artística en Europa, caracterizado por una renovación en las técnicas de pintura, escultura y arquitectura.</p>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/%22David%22_by_Michelangelo_JBU0001.JPG/400px-%22David%22_by_Michelangelo_JBU0001.JPG" alt="David de Miguel Ángel">
+      <img src="https://via.placeholder.com/400" alt="David de Miguel Ángel">
       <h3>Impresionismo</h3>
       <p>Los impresionistas, como Claude Monet y Edgar Degas, desafiaron las convenciones artísticas de su tiempo al enfocarse en capturar la luz y el color de manera más espontánea.</p>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Claude_Monet_-_Nympheas_%281914-1917%29.jpg/400px-Claude_Monet_-_Nympheas_%281914-1917%29.jpg" alt="Nympheas de Claude Monet">
+      <img src="https://via.placeholder.com/400" alt="Nympheas de Claude Monet">
     </section>
 
     <section id="tecnica">
@@ -71,7 +71,7 @@
         <li>Salir de la zona de confort</li>
         <li>Mantener un diario de ideas</li>
         <li>Cambiar de perspectiva</li>
-        <li>Experimentar con nuevas técnicas</li>
+        ><li>Experimentar con nuevas técnicas</li>
       </ul>
     </section>
 
@@ -92,3 +92,4 @@
   </footer>
 </body>
 </html>
+
